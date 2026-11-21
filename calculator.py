@@ -12,17 +12,12 @@ import math
 
 
 # First example
-<<<<<<< HEAD
 def square_root(a):
     if a<0:
         raise ValueError("Cannot take the square root of a negative number")
     return math.sqrt(a)
 def hypotenuse(a, b):
     return math.hypot(a, b)
-def add(a, b): 
-    return a + b
-=======
-
 def add(a, b):
     return a+b
 def sub(a, b):
@@ -39,7 +34,6 @@ def log(a, b):
     return math.log(b, a)
 def exp(a, b):
     return a ** b
->>>>>>> fdcda45d510b17decbfe08381bd0dc596fba5f35
 def subtract(a, b):
     return a - b
 def multiply(a, b):
