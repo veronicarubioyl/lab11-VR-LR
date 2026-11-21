@@ -20,7 +20,7 @@ def multiply(a, b):
     return a * b
 def divide(a, b):
     if a ==0:
-        raise ZeroDivisionError("Divide by zero")
+        raise ZeroDivisionError("a cannot be zero")
     return b / a
 def logarithm(a,b):
     if a == 1 or b <= 0 or a <= 0:
