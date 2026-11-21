@@ -1,3 +1,8 @@
+# https://github.com/veronicarubioyl/lab11-VR-LR.git
+# Partner 1: Veronica Rubio
+# Partner 2: Lucas Rosen
+
+
 import unittest
 from calculator import *
 
