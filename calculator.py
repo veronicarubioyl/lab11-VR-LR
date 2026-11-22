@@ -1,9 +1,3 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
-
-One function per operation, in order.
-"""
 # https://github.com/veronicarubioyl/lab11-VR-LR.git
 # Partner 1: Veronica Rubio
 # Partner 2: Lucas Rosen
